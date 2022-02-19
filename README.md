@@ -1,4 +1,4 @@
-# Welcome to the Recipe APP
+# Welcome to the Trivia APP
 
 ## Context
 
