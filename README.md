@@ -5,7 +5,7 @@
 This project was made as a work assignment in during the Trybe web developer course.
 
 The goal was to create a fully operational trivia game app, using a API, and utilize the learnings from the frontend module with Redux.
-I was develped in a group, using the Kanban and Scrum techniques.
+It was develped in a group, using the Kanban and Scrum techniques.
 
 ---
 
